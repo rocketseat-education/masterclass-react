@@ -15,3 +15,16 @@ Esse projeto é um clone da interface de usuário (UI) do Twitter utilizando Rea
 Você pode conferir o projeto funcionando aqui:
 
 > https://masterclass-react.vercel.app/
+
+<!--START_SECTION:footer-->
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://discord.gg/rocketseat" target="_blank">
+    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
+  </a>
+</p>
+
+<!--END_SECTION:footer-->
